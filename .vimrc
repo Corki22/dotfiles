@@ -25,7 +25,6 @@ set incsearch
 set mouse=a
 cs add /usr/src/cscope.out
 syntax enable
-colo lucario
 set shiftwidth=4
 set autoindent
 set ignorecase          
