@@ -17,4 +17,7 @@ done
 mkdir -p .vim/colors
 cp .vim/colors/lucario.vim ~/.vim/colors
 vim +PluginInstall +qall
+apt upgrade
+apt install go-lang
+go get -u github.com/go-delve/delve/cmd/dlv
 pip install jedi
