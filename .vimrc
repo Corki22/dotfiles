@@ -12,6 +12,7 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'nathanaelkane/vim-indent-guides'
 Plugin 'davidhalter/jedi-vim'
 Plugin 'ervandew/supertab'
+Plugin 'fatih/vim-go'
 "Plugin 'ascenator/L9', {'name': 'newL9'}
 
 call vundle#end()            
